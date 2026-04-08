@@ -7,7 +7,7 @@ I designed and developed this project to prioritize both **security** and **user
 ![Hero Showcase](./docs/hero.png)
 
 ## 🚀 Live Demo
-*(Link to live deployment will be added here once deployed)*
+**[Launch Data Exposure Tracker](https://jibran-jpeg.github.io/data-exposure-tracker/)**
 
 ## ✨ Key Features I Implemented
 
@@ -59,11 +59,11 @@ npm run dev
 The app will become accessible at \`http://localhost:5173\` for remote local testing.
 
 ## 🌍 Live Deployment (Production)
-Once deployed to a hosting platform (like Vercel, Netlify, or GitHub Pages), the live version of this web app will be available at:
+The live version of this web app is continuously deployed and available at:
 
-**🔗 [Insert Live Website URL Here]**
+**🔗 [https://jibran-jpeg.github.io/data-exposure-tracker/](https://jibran-jpeg.github.io/data-exposure-tracker/)**
 
-*(Make sure to update the environment variables for your backend proxy API key in production!)*
+*(Note: In the live demo environment, deterministic local fallback is active to ensure k-Anonymity without exposing backend proxy keys.)*
 
 ---
 
